@@ -1,27 +1,14 @@
+# Micro:Bit Compass
+**a simple compass made for the Micro:Bit** 
 
-> Open this page at [https://buzz-lightsnack-2007.github.io/microbit_compass/](https://buzz-lightsnack-2007.github.io/microbit_compass/)
-
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/buzz-lightsnack-2007/microbit_compass** and import
-
-## Edit this project ![Build status badge](https://github.com/buzz-lightsnack-2007/microbit_compass/workflows/MakeCode/badge.svg)
-
-To edit this repository in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/buzz-lightsnack-2007/microbit_compass** and click import
+## Edit this project
+To edit this repository in MakeCode:
+1. Open [Microsoft MakeCode](https://makecode.microbit.org/).
+2. Click on **Import** then click on **Import URL**.
+3. Paste **https://gitdab.com/buzz-lightsnack-2007/MicroBit_Compass** and click import.
 
 ## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
+This image shows the blocks code from the last commit in master, although it may take a few minutes to refresh.
 
 ![A rendered view of the blocks](https://github.com/buzz-lightsnack-2007/microbit_compass/raw/master/.github/makecode/blocks.png)
 
